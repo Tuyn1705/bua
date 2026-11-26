@@ -20,7 +20,7 @@
     // =========================================================================
     // DÁN LINK WEB APP GOOGLE APPS SCRIPT CỦA BẠN VÀO ĐÂY TRƯỚC KHI MÃ HÓA
     // =========================================================================
-    const ACTIVATION_API_URL = 'https://script.google.com/macros/s/AKfycbxyAp32sMVQRGaWHPgxLyWpEENi9O3YlYwGvBMF28_3d-xPebK002nCYzsAmiQjUYHs0Q/exec';
+    const ACTIVATION_API_URL = 'https://script.google.com/macros/s/AKfycbwWqCu8Vag0GwhL4bkp-hNBavr6gfz-S3R0YH94GpCDnskbJcncO_sCfKblGdJeyFB7Kg/exec';
 
     let isRunning = false;
     let capturedExamJson = null;
